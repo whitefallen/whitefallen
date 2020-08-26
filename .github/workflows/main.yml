@@ -1,0 +1,36 @@
+name: Update README every 1 Hour
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  stuff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
+
+      - run: yarn
+
+      - run: node .
+        env:
+          client_id: ${{ secrets.client_id }}
+          client_secret: ${{ secrets.client_secret }}
+          refresh_token: ${{ secrets.refresh_token }}
+
+      - name: Add to git repo
+        run: |
+          git add .
+          git config --global user.name ${{ secrets.user_name }}
+          git config --global user.email ${{ secrets.user_email }} 
+          git commit -m "[Github Action] README update"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.github_token }}
