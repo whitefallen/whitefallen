@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![alt text](https://i.scdn.co/image/ab67616d00001e02bd84f14b7643bc5fdaa94b2d)
+![Talk To Me (feat. Lzzy Hale)](https://i.scdn.co/image/ab67616d00001e02e4006fb07fcd9e2d32130026)
 --
-_<p>Track: Grave - Stripped - Wage War </p>_
+_<p>Track: {track_name} - Apocalyptica </p>_
 </div>
