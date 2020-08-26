@@ -41,6 +41,7 @@ async function main() {
     const readme = readmeTemplate
         .replace("{track_image}", track_image)
         .replace("{track_artist}", track_artist)
+        .replace("{track_alt}", track_name)
         .replace("{track_name}", track_name)
 
     await fs.writeFile("README.md", readme);
