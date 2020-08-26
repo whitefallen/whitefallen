@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1>Now Plaing...</h1>
+<h1>Now Playing...</h1>
 
 ![alt text]({track_image})
 --
