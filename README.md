@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Not Original](https://i.scdn.co/image/ab67616d00001e020c5c27ebf2d22a29b110f0ae)
+![STFU](https://i.scdn.co/image/ab67616d00001e02384c7d3cdb981b555215de30)
 --
-_<p>Track: Not Original - Sevendust </p>_
+_<p>Track: STFU - Annisokay </p>_
 </div>
