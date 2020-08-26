@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Walk On By](https://i.scdn.co/image/ab67616d00001e026ca3755502b65b89ad562003)
+![Not Original](https://i.scdn.co/image/ab67616d00001e020c5c27ebf2d22a29b110f0ae)
 --
-_<p>Track: Walk On By - Jonathan Davis </p>_
+_<p>Track: Not Original - Sevendust </p>_
 </div>
