@@ -1,0 +1,26 @@
+{
+  "name": "whitefallen",
+  "version": "1.0.0",
+  "description": "Github Profile Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitefallen/whitefallen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitefallen/whitefallen/issues"
+  },
+  "homepage": "https://github.com/whitefallen/whitefallen#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "isomorphic-unfetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
