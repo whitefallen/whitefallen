@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Own Little World - Live](https://i.scdn.co/image/ab67616d00001e020a91bd02f5c821409a36e602)
+![It's Over](https://i.scdn.co/image/ab67616d00001e02f77f11693b76fdf024f9eb5e)
 --
-_<p>Track: Own Little World - Live - Celldweller </p>_
+_<p>Track: It's Over - Kaixo </p>_
 </div>
