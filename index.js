@@ -24,7 +24,7 @@ async function main() {
         )
     ).json();
 
-    const currentlyPlayingJson = await (
+    const recentlyPlayed = await (
         await fetch("https://api.spotify.com/v1/me/player/recently-played", {
             headers: {
                 Authorization: `Bearer ${access_token}`,
@@ -32,11 +32,11 @@ async function main() {
         })
     ).json();
 
-    console.log(currentlyPlayingJson);
+    console.log(recentlyPlayed);
 
-    const track_name = currentlyPlayingJson.items[0].name;
-    const track_artist = currentlyPlayingJson.items[0].artists[0].name;
-    const track_image = currentlyPlayingJson.items[0].album.images[1].url;
+    const track_name = recentlyPlayed.items[0].track.name;
+    const track_artist = recentlyPlayed.items[0].track.artists[0].name;
+    const track_image = recentlyPlayed.items[0].track.album.images[1].url;
 
     const readme = readmeTemplate
         .replace("{track_image}", track_image)
