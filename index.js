@@ -33,6 +33,7 @@ async function main() {
     ).json();
 
     console.log(recentlyPlayed);
+    console.log("Last Played: " + recentlyPlayed.items[0].track.name);
 
     const track_name = recentlyPlayed.items[0].track.name;
     const track_artist = recentlyPlayed.items[0].track.artists[0].name;
