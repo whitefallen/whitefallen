@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![New Age - Bossfight Remix](https://i.scdn.co/image/ab67616d00001e02cc4e8675971876987ff380ad)
+![AGONIZE](https://i.scdn.co/image/ab67616d00001e020bcf14068e051abbe4813346)
 --
-_<p>Track: New Age - Bossfight Remix - MUZZ </p>_
+_<p>Track: AGONIZE - F.O.O.L </p>_
 </div>
