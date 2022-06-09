@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Dawnbreaker](https://i.scdn.co/image/ab67616d00001e023619bca56d14651aec7b02a5)
+![Erasure](https://i.scdn.co/image/ab67616d00001e02e8f7467cd9a78fc6db334dcc)
 --
-_<p>Track: Dawnbreaker - Daedric </p>_
+_<p>Track: Erasure - Cassetter </p>_
 </div>
