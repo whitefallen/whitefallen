@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Black To The Future](https://i.scdn.co/image/ab67616d00001e0232919f66807bd673d3979ff6)
+![New Age - Bossfight Remix](https://i.scdn.co/image/ab67616d00001e02cc4e8675971876987ff380ad)
 --
-_<p>Track: Black To The Future - Fury Weekend </p>_
+_<p>Track: New Age - Bossfight Remix - MUZZ </p>_
 </div>
