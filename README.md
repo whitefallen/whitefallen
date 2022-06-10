@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Meltdown](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
+![Parasite Eve](https://i.scdn.co/image/ab67616d00001e025149c948fde506624246a684)
 --
-_<p>Track: Meltdown - Motionless In White </p>_
+_<p>Track: Parasite Eve - Bring Me The Horizon </p>_
 </div>
