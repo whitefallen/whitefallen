@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![I'd Rather See Your Star Explode](https://i.scdn.co/image/ab67616d00001e0225d9c3799537cbf06ab5d88b)
+![Slaughterhouse (feat. Bryan Garris Of Knocked Loose)](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
 --
-_<p>Track: I'd Rather See Your Star Explode - SLAVES </p>_
+_<p>Track: Slaughterhouse (feat. Bryan Garris Of Knocked Loose) - Motionless In White </p>_
 </div>
