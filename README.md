@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![B.F.B.T.G.: Corpse Nation](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
+![I'd Rather See Your Star Explode](https://i.scdn.co/image/ab67616d00001e0225d9c3799537cbf06ab5d88b)
 --
-_<p>Track: B.F.B.T.G.: Corpse Nation - Motionless In White </p>_
+_<p>Track: I'd Rather See Your Star Explode - SLAVES </p>_
 </div>
