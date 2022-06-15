@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![New Age - Bossfight Remix](https://i.scdn.co/image/ab67616d00001e02cc4e8675971876987ff380ad)
+![Burned At Both Ends II](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
 --
-_<p>Track: New Age - Bossfight Remix - MUZZ </p>_
+_<p>Track: Burned At Both Ends II - Motionless In White </p>_
 </div>
