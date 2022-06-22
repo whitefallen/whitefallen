@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Black Gold](https://i.scdn.co/image/ab67616d00001e02fc83beca7a80802389721638)
+![Still Waters Run Deep](https://i.scdn.co/image/ab67616d00001e02a267cdca877b24de9b7c7492)
 --
-_<p>Track: Black Gold - Monument Of A Memory </p>_
+_<p>Track: Still Waters Run Deep - Malevolence </p>_
 </div>
