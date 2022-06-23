@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Snow](https://i.scdn.co/image/ab67616d00001e025876ced111185cbe4818ad66)
+![break me!](https://i.scdn.co/image/ab67616d00001e02b51a7f4ca95f95fdd856e74c)
 --
-_<p>Track: The Snow - Devil May Care </p>_
+_<p>Track: break me! - Maggie Lindemann </p>_
 </div>
