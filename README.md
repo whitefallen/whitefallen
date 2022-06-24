@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Crosses (feat. Spencer Chamberlain of Underoath)](https://i.scdn.co/image/ab67616d00001e02c7e578afd62eef3da004f322)
+![B.F.B.T.G.: Corpse Nation](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
 --
-_<p>Track: Crosses (feat. Spencer Chamberlain of Underoath) - Sleeping With Sirens </p>_
+_<p>Track: B.F.B.T.G.: Corpse Nation - Motionless In White </p>_
 </div>
