@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![break me!](https://i.scdn.co/image/ab67616d00001e02b51a7f4ca95f95fdd856e74c)
+![Black To The Future](https://i.scdn.co/image/ab67616d00001e0232919f66807bd673d3979ff6)
 --
-_<p>Track: break me! - Maggie Lindemann </p>_
+_<p>Track: Black To The Future - Fury Weekend </p>_
 </div>
