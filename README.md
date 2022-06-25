@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Abomination from Planet X](https://i.scdn.co/image/ab67616d00001e02740afb045418271b777764f2)
+![The Machine](https://i.scdn.co/image/ab67616d00001e0207459d4b46218c28e5ab9cb5)
 --
-_<p>Track: The Abomination from Planet X - Hollywood Burns </p>_
+_<p>Track: The Machine - CANTERVICE </p>_
 </div>
