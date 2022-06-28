@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Miss You](https://i.scdn.co/image/ab67616d00001e0217c343c7035719e7a8616928)
+![Randy Dandy Oh](https://i.scdn.co/image/ab67616d00001e02f2862a03810b6464b09c3eef)
 --
-_<p>Track: Miss You - Jérémie Makiese </p>_
+_<p>Track: Randy Dandy Oh - Jonathan Young </p>_
 </div>
