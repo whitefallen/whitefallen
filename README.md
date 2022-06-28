@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Masterpiece](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
+![Fade to black](https://i.scdn.co/image/ab67616d00001e02f75574f610aa2d4fb2dc284f)
 --
-_<p>Track: Masterpiece - Motionless In White </p>_
+_<p>Track: Fade to black - Nadir Rustamli </p>_
 </div>
