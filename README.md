@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Sun of All](https://i.scdn.co/image/ab67616d00001e0213c11114d4c047b154852e8b)
+![Memory (Inspired by "Bleach")](https://i.scdn.co/image/ab67616d00001e02cd61a674af72b5129fa99219)
 --
-_<p>Track: Sun of All - Orbit Culture </p>_
+_<p>Track: Memory (Inspired by "Bleach") - Fabvl </p>_
 </div>
