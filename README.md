@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Starting Point](https://i.scdn.co/image/ab67616d00001e0285a3aa8132dac826c63711ff)
+![See Through Me](https://i.scdn.co/image/ab67616d00001e028f587f88a75a7b4a492066f8)
 --
-_<p>Track: Starting Point - Nitroverts </p>_
+_<p>Track: See Through Me - Orbit Culture </p>_
 </div>
