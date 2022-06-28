@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Randy Dandy Oh](https://i.scdn.co/image/ab67616d00001e02f2862a03810b6464b09c3eef)
+![New Divide](https://i.scdn.co/image/ab67616d00001e02d0071c6bd8264a0c037c53a6)
 --
-_<p>Track: Randy Dandy Oh - Jonathan Young </p>_
+_<p>Track: New Divide - Jonathan Young </p>_
 </div>
