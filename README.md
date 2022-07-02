@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![BR4INFCK](https://i.scdn.co/image/ab67616d00001e02343646800b08c1c46f5fa7f0)
+![The Prophet](https://i.scdn.co/image/ab67616d00001e02b03d41738d0ca8102a0d7624)
 --
-_<p>Track: BR4INFCK - From Fall to Spring </p>_
+_<p>Track: The Prophet - Chaosbay </p>_
 </div>
