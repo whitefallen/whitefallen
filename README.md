@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![BLOOD RACE](https://i.scdn.co/image/ab67616d00001e02589089c016e02d4f783966ff)
+![Let Them Know](https://i.scdn.co/image/ab67616d00001e026bbb199a6537fe7d858ec523)
 --
-_<p>Track: BLOOD RACE - Ghostface Playa </p>_
+_<p>Track: Let Them Know - Daniel Deluxe </p>_
 </div>
