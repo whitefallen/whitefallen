@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Can't Love Myself (feat. Mishaal & LPW)](https://i.scdn.co/image/ab67616d00001e0232f4a7dd681ae1406a5c309f)
+![Out Of Time](https://i.scdn.co/image/ab67616d00001e02de0bbebd87db157382e1399d)
 --
-_<p>Track: Can't Love Myself (feat. Mishaal & LPW) - HUGEL </p>_
+_<p>Track: Out Of Time - Daniel Blume </p>_
 </div>
