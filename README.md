@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![I Promise (Inspired by "Jujutsu Kaisen")](https://i.scdn.co/image/ab67616d00001e02359436794bd2874c6941ffa4)
+![Blood (Alucard Rap)](https://i.scdn.co/image/ab67616d00001e02c0ebac1bf7757bfc5dabf885)
 --
-_<p>Track: I Promise (Inspired by "Jujutsu Kaisen") - Fabvl </p>_
+_<p>Track: Blood (Alucard Rap) - Rustage </p>_
 </div>
