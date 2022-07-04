@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Bet On It](https://i.scdn.co/image/ab67616d00001e0206c98de24ea66c6412e4f6a6)
+![Demon King (Sukuna Rap)](https://i.scdn.co/image/ab67616d00001e0282aab03bd8e22174f4a41839)
 --
-_<p>Track: Bet On It - Peyton Parrish </p>_
+_<p>Track: Demon King (Sukuna Rap) - Rustage </p>_
 </div>
