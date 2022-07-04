@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Demon King (Sukuna Rap)](https://i.scdn.co/image/ab67616d00001e0282aab03bd8e22174f4a41839)
+![Memory (Inspired by "Bleach")](https://i.scdn.co/image/ab67616d00001e02cd61a674af72b5129fa99219)
 --
-_<p>Track: Demon King (Sukuna Rap) - Rustage </p>_
+_<p>Track: Memory (Inspired by "Bleach") - Fabvl </p>_
 </div>
