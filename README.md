@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Blood (Alucard Rap)](https://i.scdn.co/image/ab67616d00001e02c0ebac1bf7757bfc5dabf885)
+![Pokemon Villain Cypher](https://i.scdn.co/image/ab67616d00001e0297d12c6bbca2b1c2a47ac920)
 --
-_<p>Track: Blood (Alucard Rap) - Rustage </p>_
+_<p>Track: Pokemon Villain Cypher - VideoGameRapBattles </p>_
 </div>
