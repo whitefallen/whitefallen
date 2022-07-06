@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Pokemon Champion Cypher](https://i.scdn.co/image/ab67616d00001e023c0b2ac92f733bac1abd2c53)
+![Scoring The End Of The World (feat. Mick Gordon)](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
 --
-_<p>Track: Pokemon Champion Cypher - VideoGameRapBattles </p>_
+_<p>Track: Scoring The End Of The World (feat. Mick Gordon) - Motionless In White </p>_
 </div>
