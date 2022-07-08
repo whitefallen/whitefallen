@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Lights & Fire](https://i.scdn.co/image/ab67616d00001e02b22107b2df527096326ef810)
+![Home](https://i.scdn.co/image/ab67616d00001e0255d2c6109faa9a146370d8f7)
 --
-_<p>Track: Lights & Fire - Wolves At The Gate </p>_
+_<p>Track: Home - Chaosbay </p>_
 </div>
