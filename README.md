@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Trap God](https://i.scdn.co/image/ab67616d00001e02a7fee00da815f8bfbec18690)
+![Break the Ice](https://i.scdn.co/image/ab67616d00001e02ca10fae7d292c52f7e8b11ca)
 --
-_<p>Track: Trap God - Hollywood Undead </p>_
+_<p>Track: Break the Ice - Britney Spears </p>_
 </div>
