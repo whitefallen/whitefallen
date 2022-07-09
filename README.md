@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Find You](https://i.scdn.co/image/ab67616d00001e025805d9863327a9e81e672eb7)
+![Ketamine](https://i.scdn.co/image/ab67616d00001e02471038c9bf8d1af038ca83d0)
 --
-_<p>Track: Find You - Signal Void </p>_
+_<p>Track: Ketamine - Fame on Fire </p>_
 </div>
