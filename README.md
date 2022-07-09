@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![For You](https://i.scdn.co/image/ab67616d00001e02587ad5bffe56342d4dd9c55f)
+![New Age - Bossfight Remix](https://i.scdn.co/image/ab67616d00001e02cc4e8675971876987ff380ad)
 --
-_<p>Track: For You - Loveless </p>_
+_<p>Track: New Age - Bossfight Remix - MUZZ </p>_
 </div>
