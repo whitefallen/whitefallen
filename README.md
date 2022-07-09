@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![New Age - Bossfight Remix](https://i.scdn.co/image/ab67616d00001e02cc4e8675971876987ff380ad)
+![Find You](https://i.scdn.co/image/ab67616d00001e025805d9863327a9e81e672eb7)
 --
-_<p>Track: New Age - Bossfight Remix - MUZZ </p>_
+_<p>Track: Find You - Signal Void </p>_
 </div>
