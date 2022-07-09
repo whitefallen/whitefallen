@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![3](https://i.scdn.co/image/ab67616d00001e02cc8fa71a43ad87783b3f64be)
+![Toxic](https://i.scdn.co/image/ab67616d00001e02efc6988972cb04105f002cd4)
 --
-_<p>Track: 3 - Britney Spears </p>_
+_<p>Track: Toxic - Britney Spears </p>_
 </div>
