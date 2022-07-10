@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Anyone](https://i.scdn.co/image/ab67616d00001e02b02912285f1ab3ad905bac1a)
+![Slave New World](https://i.scdn.co/image/ab67616d00001e020deee5bb285f26bf9a738a84)
 --
-_<p>Track: Anyone - American Avenue </p>_
+_<p>Track: Slave New World - Sepultura </p>_
 </div>
