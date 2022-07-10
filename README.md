@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Slave New World](https://i.scdn.co/image/ab67616d00001e020deee5bb285f26bf9a738a84)
+![Enigmatic Pandemonium](https://i.scdn.co/image/ab67616d00001e0261b919dcad44344fce8978e4)
 --
-_<p>Track: Slave New World - Sepultura </p>_
+_<p>Track: Enigmatic Pandemonium - DeadSquad </p>_
 </div>
