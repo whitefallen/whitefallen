@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Ketamine](https://i.scdn.co/image/ab67616d00001e02471038c9bf8d1af038ca83d0)
+![Exile - Bonus Track](https://i.scdn.co/image/ab67616d00001e02fa6cad5485fec668428d31ba)
 --
-_<p>Track: Ketamine - Fame on Fire </p>_
+_<p>Track: Exile - Bonus Track - Loveless </p>_
 </div>
