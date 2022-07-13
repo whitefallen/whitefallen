@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Heart To Stone](https://i.scdn.co/image/ab67616d00001e024c0fde70d4295014d043181f)
+![Your Love I'll Never Need](https://i.scdn.co/image/ab67616d00001e0239c6b94dffb5033b0ded4280)
 --
-_<p>Track: Heart To Stone - ONI </p>_
+_<p>Track: Your Love I'll Never Need - Ocean Sleeper </p>_
 </div>
