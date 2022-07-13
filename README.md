@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Blindfolded](https://i.scdn.co/image/ab67616d00001e022d40836022be142fa6a7167c)
+![Deadman](https://i.scdn.co/image/ab67616d00001e02c4eda62eedfa06ef84e91c09)
 --
-_<p>Track: Blindfolded - Evergrey </p>_
+_<p>Track: Deadman - Smash Into Pieces </p>_
 </div>
