@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![We Will Rock You](https://i.scdn.co/image/ab67616d00001e0237256f766060c96d873fdf30)
+![Pop](https://i.scdn.co/image/ab67616d00001e02d0071c6bd8264a0c037c53a6)
 --
-_<p>Track: We Will Rock You - Halocene </p>_
+_<p>Track: Pop - Jonathan Young </p>_
 </div>
