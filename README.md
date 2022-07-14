@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Rebel Yell](https://i.scdn.co/image/ab67616d00001e02bcaec34ce0a3891b90a3ef2d)
+![We Will Rock You](https://i.scdn.co/image/ab67616d00001e0237256f766060c96d873fdf30)
 --
-_<p>Track: Rebel Yell - Jonathan Young </p>_
+_<p>Track: We Will Rock You - Halocene </p>_
 </div>
