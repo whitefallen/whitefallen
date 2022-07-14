@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Your Love I'll Never Need](https://i.scdn.co/image/ab67616d00001e0239c6b94dffb5033b0ded4280)
+![Rebel Yell](https://i.scdn.co/image/ab67616d00001e02bcaec34ce0a3891b90a3ef2d)
 --
-_<p>Track: Your Love I'll Never Need - Ocean Sleeper </p>_
+_<p>Track: Rebel Yell - Jonathan Young </p>_
 </div>
