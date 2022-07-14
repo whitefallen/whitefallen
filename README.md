@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Pop](https://i.scdn.co/image/ab67616d00001e02d0071c6bd8264a0c037c53a6)
+![The Rumbling](https://i.scdn.co/image/ab67616d00001e0241e661f965336ba6011aca64)
 --
-_<p>Track: Pop - Jonathan Young </p>_
+_<p>Track: The Rumbling - Jonathan Young </p>_
 </div>
