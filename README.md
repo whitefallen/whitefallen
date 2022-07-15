@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![愛のけだもの](https://i.scdn.co/image/ab67616d00001e026f2743877df69bed3c6e491b)
+![Surface Pressure](https://i.scdn.co/image/ab67616d00001e0231886fa9407ceebf3f398479)
 --
-_<p>Track: 愛のけだもの - KAMI WA SAIKORO WO FURANAI </p>_
+_<p>Track: Surface Pressure - Our Last Night </p>_
 </div>
