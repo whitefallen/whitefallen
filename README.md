@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Photograph](https://i.scdn.co/image/ab67616d00001e02f846215e8b8648fd645fe9ea)
+![Yeah!](https://i.scdn.co/image/ab67616d00001e02e7795b92c19842913558e9d2)
 --
-_<p>Track: Photograph - Jonathan Young </p>_
+_<p>Track: Yeah! - Fame on Fire </p>_
 </div>
