@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![What Is War](https://i.scdn.co/image/ab67616d00001e02a1410b5e7b3de50d9a9f64ca)
+![Shapes](https://i.scdn.co/image/ab67616d00001e028ee4379cc0fae6f6b48700fc)
 --
-_<p>Track: What Is War - Chaosbay </p>_
+_<p>Track: Shapes - Coat Of Arms </p>_
 </div>
