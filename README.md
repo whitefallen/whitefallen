@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Black Water](https://i.scdn.co/image/ab67616d00001e02cb6866d1a0b6d7857de5a735)
+![What Is War](https://i.scdn.co/image/ab67616d00001e02a1410b5e7b3de50d9a9f64ca)
 --
-_<p>Track: Black Water - Time, The Valuator </p>_
+_<p>Track: What Is War - Chaosbay </p>_
 </div>
