@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Proxy](https://i.scdn.co/image/ab67616d00001e02002cbddeb2d018f48be21f6b)
+![SACRiFiCE](https://i.scdn.co/image/ab67616d00001e0248183255e235d0a02e9e75f8)
 --
-_<p>Track: Proxy - Tulip </p>_
+_<p>Track: SACRiFiCE - shinigami </p>_
 </div>
