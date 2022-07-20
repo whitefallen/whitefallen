@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Believe](https://i.scdn.co/image/ab67616d00001e02b224b5592afd2cd46f78d4f4)
+![No Respect](https://i.scdn.co/image/ab67616d00001e0211e90d44b0ffa4756bdbd1cf)
 --
-_<p>Track: Believe - Dope </p>_
+_<p>Track: No Respect - Dope </p>_
 </div>
