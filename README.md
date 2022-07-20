@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![No Respect](https://i.scdn.co/image/ab67616d00001e0211e90d44b0ffa4756bdbd1cf)
+![Everything Goes On](https://i.scdn.co/image/ab67616d00001e022b1a62237771427afb899387)
 --
-_<p>Track: No Respect - Dope </p>_
+_<p>Track: Everything Goes On - Porter Robinson </p>_
 </div>
