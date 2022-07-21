@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fast Lane](https://i.scdn.co/image/ab67616d00001e0259a1132f3cab22f80b2d2777)
+![Glory](https://i.scdn.co/image/ab67616d00001e02b34bdd500b660e38dba68cb9)
 --
-_<p>Track: Fast Lane - Bad Meets Evil </p>_
+_<p>Track: Glory - Hollywood Undead </p>_
 </div>
