@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Phenomenon](https://i.scdn.co/image/ab67616d00001e029af264c72f603a1344dce6ad)
+![Heul doch](https://i.scdn.co/image/ab67616d00001e02813f032605588f920d06080a)
 --
-_<p>Track: Phenomenon - Thousand Foot Krutch </p>_
+_<p>Track: Heul doch - LaFee </p>_
 </div>
