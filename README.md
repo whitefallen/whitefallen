@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fallen Leaves](https://i.scdn.co/image/ab67616d00001e0251ad1636a7d0456ad972a71c)
+![SILENCE THE WORLD](https://i.scdn.co/image/ab67616d00001e026910645fae04ae9da219549f)
 --
-_<p>Track: Fallen Leaves - Billy Talent </p>_
+_<p>Track: SILENCE THE WORLD - Demon Hunter </p>_
 </div>
