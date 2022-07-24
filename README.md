@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Red Flag](https://i.scdn.co/image/ab67616d00001e0251ad1636a7d0456ad972a71c)
+![Heul doch](https://i.scdn.co/image/ab67616d00001e02813f032605588f920d06080a)
 --
-_<p>Track: Red Flag - Billy Talent </p>_
+_<p>Track: Heul doch - LaFee </p>_
 </div>
