@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Over And Under](https://i.scdn.co/image/ab67616d00001e02fff4c1e4c2e0534e6bfbde5b)
+![Comin’ In Hot](https://i.scdn.co/image/ab67616d00001e021f267bd335e93b41e56da619)
 --
-_<p>Track: Over And Under - Egypt Central </p>_
+_<p>Track: Comin’ In Hot - Hollywood Undead </p>_
 </div>
