@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![End Of All Hope](https://i.scdn.co/image/ab67616d00001e023cfa7689ec9ea9b0856a195b)
+![Red Flag](https://i.scdn.co/image/ab67616d00001e0251ad1636a7d0456ad972a71c)
 --
-_<p>Track: End Of All Hope - Nightwish </p>_
+_<p>Track: Red Flag - Billy Talent </p>_
 </div>
