@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Wish I Had an Angel](https://i.scdn.co/image/ab67616d00001e02c7190a75bf05ad902f52c7a2)
+![End Of All Hope](https://i.scdn.co/image/ab67616d00001e023cfa7689ec9ea9b0856a195b)
 --
-_<p>Track: Wish I Had an Angel - Nightwish </p>_
+_<p>Track: End Of All Hope - Nightwish </p>_
 </div>
