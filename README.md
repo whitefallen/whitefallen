@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![SILENCE THE WORLD](https://i.scdn.co/image/ab67616d00001e026910645fae04ae9da219549f)
+![Wish I Had an Angel](https://i.scdn.co/image/ab67616d00001e02c7190a75bf05ad902f52c7a2)
 --
-_<p>Track: SILENCE THE WORLD - Demon Hunter </p>_
+_<p>Track: Wish I Had an Angel - Nightwish </p>_
 </div>
