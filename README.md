@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Impossible](https://i.scdn.co/image/ab67616d00001e021045ec0d6b9ca1152eaa9e11)
+![Demon Speeding](https://i.scdn.co/image/ab67616d00001e027375f246747aaf6e265ceb78)
 --
-_<p>Track: Impossible - Manafest </p>_
+_<p>Track: Demon Speeding - Rob Zombie </p>_
 </div>
