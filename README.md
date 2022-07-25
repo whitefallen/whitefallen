@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Move](https://i.scdn.co/image/ab67616d00001e02f52048ccaec7f8e1550250c1)
+![Warrior](https://i.scdn.co/image/ab67616d00001e02fa6551bf5f8a821baa48a1e8)
 --
-_<p>Track: Move - Thousand Foot Krutch </p>_
+_<p>Track: Warrior - Disturbed </p>_
 </div>
