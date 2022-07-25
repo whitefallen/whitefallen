@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Primo Victoria](https://i.scdn.co/image/ab67616d00001e023614e26f0db450a2ed55a4ca)
+![Headstrong](https://i.scdn.co/image/ab67616d00001e0274d9a833744be96426ee833c)
 --
-_<p>Track: Primo Victoria - Sabaton </p>_
+_<p>Track: Headstrong - Trapt </p>_
 </div>
