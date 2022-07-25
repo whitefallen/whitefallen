@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Animal I Have Become](https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f)
+![Impossible](https://i.scdn.co/image/ab67616d00001e021045ec0d6b9ca1152eaa9e11)
 --
-_<p>Track: Animal I Have Become - Three Days Grace </p>_
+_<p>Track: Impossible - Manafest </p>_
 </div>
