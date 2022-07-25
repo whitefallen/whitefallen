@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Headstrong](https://i.scdn.co/image/ab67616d00001e0274d9a833744be96426ee833c)
+![Move](https://i.scdn.co/image/ab67616d00001e02f52048ccaec7f8e1550250c1)
 --
-_<p>Track: Headstrong - Trapt </p>_
+_<p>Track: Move - Thousand Foot Krutch </p>_
 </div>
