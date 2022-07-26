@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![New Medicines](https://i.scdn.co/image/ab67616d00001e023b882ec6465c6f88d8093a34)
+![The Antidote](https://i.scdn.co/image/ab67616d00001e02e0ef7faa378899dde94efa5c)
 --
-_<p>Track: New Medicines - Dead Poetic </p>_
+_<p>Track: The Antidote - Story Of The Year </p>_
 </div>
