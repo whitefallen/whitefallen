@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Comin’ In Hot](https://i.scdn.co/image/ab67616d00001e021f267bd335e93b41e56da619)
+![War of Change](https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd)
 --
-_<p>Track: Comin’ In Hot - Hollywood Undead </p>_
+_<p>Track: War of Change - Thousand Foot Krutch </p>_
 </div>
