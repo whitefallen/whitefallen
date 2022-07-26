@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![War of Change](https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd)
+![Break the Ice](https://i.scdn.co/image/ab67616d00001e02ca10fae7d292c52f7e8b11ca)
 --
-_<p>Track: War of Change - Thousand Foot Krutch </p>_
+_<p>Track: Break the Ice - Britney Spears </p>_
 </div>
