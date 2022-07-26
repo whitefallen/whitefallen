@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![You're Going Down](https://i.scdn.co/image/ab67616d00001e0241ef5c9090832fe69503b1fd)
+![Courtesy Call](https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd)
 --
-_<p>Track: You're Going Down - Sick Puppies </p>_
+_<p>Track: Courtesy Call - Thousand Foot Krutch </p>_
 </div>
