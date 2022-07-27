@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Pretender](https://i.scdn.co/image/ab67616d00001e0283e260c313dc1ff1f17909cf)
+![E For Extinction](https://i.scdn.co/image/ab67616d00001e0249650271cfb119ad20bce6dd)
 --
-_<p>Track: The Pretender - Foo Fighters </p>_
+_<p>Track: E For Extinction - Thousand Foot Krutch </p>_
 </div>
