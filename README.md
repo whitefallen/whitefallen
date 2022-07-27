@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Break the Ice](https://i.scdn.co/image/ab67616d00001e02ca10fae7d292c52f7e8b11ca)
+![Going Under](https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432)
 --
-_<p>Track: Break the Ice - Britney Spears </p>_
+_<p>Track: Going Under - Evanescence </p>_
 </div>
