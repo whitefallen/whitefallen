@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Trink mein Freund](https://i.scdn.co/image/ab67616d00001e02b52f7b00408f7e938b191004)
+![Blow Me Away](https://i.scdn.co/image/ab67616d00001e026079234fa9b599707dc679b5)
 --
-_<p>Track: Trink mein Freund - dArtagnan </p>_
+_<p>Track: Blow Me Away - Breaking Benjamin </p>_
 </div>
