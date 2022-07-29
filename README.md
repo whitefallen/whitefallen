@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![War of Change](https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd)
+![Wish I Had an Angel](https://i.scdn.co/image/ab67616d00001e02c7190a75bf05ad902f52c7a2)
 --
-_<p>Track: War of Change - Thousand Foot Krutch </p>_
+_<p>Track: Wish I Had an Angel - Nightwish </p>_
 </div>
