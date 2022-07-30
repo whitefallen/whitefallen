@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Stricken](https://i.scdn.co/image/ab67616d00001e02bbdafec608fc5329ec2ad831)
+![My Funeral](https://i.scdn.co/image/ab67616d00001e0249238b0db0146caa1e2f2473)
 --
-_<p>Track: Stricken - Disturbed </p>_
+_<p>Track: My Funeral - Dope </p>_
 </div>
