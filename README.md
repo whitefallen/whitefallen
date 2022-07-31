@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![My Funeral](https://i.scdn.co/image/ab67616d00001e0249238b0db0146caa1e2f2473)
+![Boom](https://i.scdn.co/image/ab67616d00001e0295741aa186187b05e0653245)
 --
-_<p>Track: My Funeral - Dope </p>_
+_<p>Track: Boom - P.O.D. </p>_
 </div>
