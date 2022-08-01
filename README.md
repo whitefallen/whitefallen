@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Losing You](https://i.scdn.co/image/ab67616d00001e02a46bcfd0d79f840b456d29cc)
+![Kalabalik](https://i.scdn.co/image/ab67616d00001e02581ad5e37f85e2be0b5aaea8)
 --
-_<p>Track: Losing You - Dead by April </p>_
+_<p>Track: Kalabalik - Orbit Culture </p>_
 </div>
