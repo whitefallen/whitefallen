@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![New Medicines](https://i.scdn.co/image/ab67616d00001e023b882ec6465c6f88d8093a34)
+![Something](https://i.scdn.co/image/ab67616d00001e02daa30a30d8c91f799d5b999c)
 --
-_<p>Track: New Medicines - Dead Poetic </p>_
+_<p>Track: Something - Martin Garrix </p>_
 </div>
