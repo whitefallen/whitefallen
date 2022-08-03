@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Something](https://i.scdn.co/image/ab67616d00001e02daa30a30d8c91f799d5b999c)
+![Not Afraid](https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100)
 --
-_<p>Track: Something - Martin Garrix </p>_
+_<p>Track: Not Afraid - Eminem </p>_
 </div>
