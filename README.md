@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Frontline](https://i.scdn.co/image/ab67616d00001e020731c66ebd5bbc87182649cf)
+![3](https://i.scdn.co/image/ab67616d00001e02cc8fa71a43ad87783b3f64be)
 --
-_<p>Track: Frontline - Pillar </p>_
+_<p>Track: 3 - Britney Spears </p>_
 </div>
