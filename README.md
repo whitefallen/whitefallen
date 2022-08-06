@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![3](https://i.scdn.co/image/ab67616d00001e02cc8fa71a43ad87783b3f64be)
+![I'm Made Of Wax, Larry, What Are You Made Of?](https://i.scdn.co/image/ab67616d00001e023c7d5cee6f8aaf4bfb2df149)
 --
-_<p>Track: 3 - Britney Spears </p>_
+_<p>Track: I'm Made Of Wax, Larry, What Are You Made Of? - A Day To Remember </p>_
 </div>
