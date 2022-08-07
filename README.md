@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Dissolve](https://i.scdn.co/image/ab67616d00001e02ae7c8eca5e2a9d4c80e6c733)
+![Pretend](https://i.scdn.co/image/ab67616d00001e02fa4b3279bb82a82ef417f3b6)
 --
-_<p>Track: Dissolve - Orthodox </p>_
+_<p>Track: Pretend - Project Vela </p>_
 </div>
