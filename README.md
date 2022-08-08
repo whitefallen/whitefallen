@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Unbroken](https://i.scdn.co/image/ab67616d00001e0257a8e406ebf0b204df04d97e)
+![Mind Right](https://i.scdn.co/image/ab67616d00001e02013f731049b9162d68e750af)
 --
-_<p>Track: Unbroken - The Curse Within </p>_
+_<p>Track: Mind Right - Drowning Pool </p>_
 </div>
