@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Bombshell](https://i.scdn.co/image/ab67616d00001e02de572d6a716421a2a4a83c69)
+![Impossible](https://i.scdn.co/image/ab67616d00001e021045ec0d6b9ca1152eaa9e11)
 --
-_<p>Track: Bombshell - Powerman 5000 </p>_
+_<p>Track: Impossible - Manafest </p>_
 </div>
