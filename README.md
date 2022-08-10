@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Neon Medusa - Edit](https://i.scdn.co/image/ab67616d00001e02200982bd05d024cba5d56d98)
+![Covenant - Max Brhon Remix](https://i.scdn.co/image/ab67616d00001e026a8710ade2fb2da3d341acf0)
 --
-_<p>Track: Neon Medusa - Edit - The Midnight </p>_
+_<p>Track: Covenant - Max Brhon Remix - Lazerpunk </p>_
 </div>
