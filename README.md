@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Valhalla Calling](https://i.scdn.co/image/ab67616d00001e029c1697d2520ab747876aa781)
+![Endseekers](https://i.scdn.co/image/ab67616d00001e02fabeff7f98662882a7fe8296)
 --
-_<p>Track: Valhalla Calling - Jonathan Young </p>_
+_<p>Track: Endseekers - Oh, Sleeper </p>_
 </div>
