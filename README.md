@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Outrun](https://i.scdn.co/image/ab67616d00001e025ca81a85756f89a4da357a2f)
+![YOU DON'T KNOW WHAT LOVE MEANS](https://i.scdn.co/image/ab67616d00001e0226c83a2d944f069c270c18f2)
 --
-_<p>Track: Outrun - Reckless Love </p>_
+_<p>Track: YOU DON'T KNOW WHAT LOVE MEANS - NOTHING MORE </p>_
 </div>
