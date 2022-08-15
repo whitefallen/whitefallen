@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Suffocate](https://i.scdn.co/image/ab67616d00001e02d2bb0cb91686f9b0c8625812)
+![Pull From The Ghost](https://i.scdn.co/image/ab67616d00001e0294875e23212e1eca7354b02a)
 --
-_<p>Track: Suffocate - Execution Day </p>_
+_<p>Track: Pull From The Ghost - ERRA </p>_
 </div>
