@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fuckin' Up](https://i.scdn.co/image/ab67616d00001e0289ab7b1fe50580a43e9175fe)
+![Morphogenesis](https://i.scdn.co/image/ab67616d00001e0290f5616f919333498358d1e5)
 --
-_<p>Track: Fuckin' Up - Jynx </p>_
+_<p>Track: Morphogenesis - Scar Symmetry </p>_
 </div>
