@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![ULTRAnumb](https://i.scdn.co/image/ab67616d00001e02dcd9fe1276c16fcdad98c50c)
+![S.C.A.V.A.](https://i.scdn.co/image/ab67616d00001e021f267bd335e93b41e56da619)
 --
-_<p>Track: ULTRAnumb - Blue Stahli </p>_
+_<p>Track: S.C.A.V.A. - Hollywood Undead </p>_
 </div>
