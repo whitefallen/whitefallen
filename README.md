@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Sunrays](https://i.scdn.co/image/ab67616d00001e0292d92cfd0bc5873726851511)
+![The Lone Ranger](https://i.scdn.co/image/ab67616d00001e025f3ece39a2b68474ee0856b6)
 --
-_<p>Track: Sunrays - AK </p>_
+_<p>Track: The Lone Ranger - NWYR </p>_
 </div>
