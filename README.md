@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Grey](https://i.scdn.co/image/ab67616d00001e025cb59e3ff2ec6340dfd6aaa1)
+![Kalter Wind](https://i.scdn.co/image/ab67616d00001e0288c3ca435d9084af815a81a1)
 --
-_<p>Track: The Grey - Bad Omens </p>_
+_<p>Track: Kalter Wind - Tom Blanc </p>_
 </div>
