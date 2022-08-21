@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Kalter Wind](https://i.scdn.co/image/ab67616d00001e0288c3ca435d9084af815a81a1)
+![Sunrays](https://i.scdn.co/image/ab67616d00001e0292d92cfd0bc5873726851511)
 --
-_<p>Track: Kalter Wind - Tom Blanc </p>_
+_<p>Track: Sunrays - AK </p>_
 </div>
