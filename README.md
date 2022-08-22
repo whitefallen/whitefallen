@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Baddest](https://i.scdn.co/image/ab67616d00001e026d23e69a6dbfec7a8608c205)
+![Helikopter - Instrumental](https://i.scdn.co/image/ab67616d00001e0224ecf583d21ad149e3dc7d38)
 --
-_<p>Track: Baddest - Vibe Chemistry </p>_
+_<p>Track: Helikopter - Instrumental - Rok Nardin </p>_
 </div>
