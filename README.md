@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Control](https://i.scdn.co/image/ab67616d00001e02c361a411a4fae54f46617e92)
+![Valhalla](https://i.scdn.co/image/ab67616d00001e02521a4ab74d24c16b3d469761)
 --
-_<p>Track: Control - Elephant Music </p>_
+_<p>Track: Valhalla - Rok Nardin </p>_
 </div>
