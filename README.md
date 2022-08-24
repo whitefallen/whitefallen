@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Devil](https://i.scdn.co/image/ab67616d00001e0269d95eb6d4207c9712805319)
+![Trink mein Freund](https://i.scdn.co/image/ab67616d00001e02b52f7b00408f7e938b191004)
 --
-_<p>Track: The Devil - Rok Nardin </p>_
+_<p>Track: Trink mein Freund - dArtagnan </p>_
 </div>
