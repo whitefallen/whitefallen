@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Eden](https://i.scdn.co/image/ab67616d00001e024e17ae94f677d263099ff7f7)
+![The Devil](https://i.scdn.co/image/ab67616d00001e0269d95eb6d4207c9712805319)
 --
-_<p>Track: Eden - Juelz </p>_
+_<p>Track: The Devil - Rok Nardin </p>_
 </div>
