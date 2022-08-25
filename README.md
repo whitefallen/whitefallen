@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Trink mein Freund](https://i.scdn.co/image/ab67616d00001e02b52f7b00408f7e938b191004)
+![Light From Darkness](https://i.scdn.co/image/ab67616d00001e02f9625407ba8c70507d254acf)
 --
-_<p>Track: Trink mein Freund - dArtagnan </p>_
+_<p>Track: Light From Darkness - City of the Fallen </p>_
 </div>
