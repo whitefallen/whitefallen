@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Light From Darkness](https://i.scdn.co/image/ab67616d00001e02f9625407ba8c70507d254acf)
+![No Honor in Blood (Orchestral)](https://i.scdn.co/image/ab67616d00001e025aa349f543955d083ecd7ea7)
 --
-_<p>Track: Light From Darkness - City of the Fallen </p>_
+_<p>Track: No Honor in Blood (Orchestral) - Two Steps from Hell </p>_
 </div>
