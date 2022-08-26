@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Cube](https://i.scdn.co/image/ab67616d00001e02f5db8ac99d3a07380396766e)
+![Helheim](https://i.scdn.co/image/ab67616d00001e02521a4ab74d24c16b3d469761)
 --
-_<p>Track: The Cube - Rok Nardin </p>_
+_<p>Track: Helheim - Rok Nardin </p>_
 </div>
