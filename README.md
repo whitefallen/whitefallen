@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Mad King](https://i.scdn.co/image/ab67616d00001e022faed4cdc27102ea18f0e8e8)
+![The Cube](https://i.scdn.co/image/ab67616d00001e02f5db8ac99d3a07380396766e)
 --
-_<p>Track: The Mad King - Rok Nardin </p>_
+_<p>Track: The Cube - Rok Nardin </p>_
 </div>
