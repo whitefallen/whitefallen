@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Pokemon Professor Cypher](https://i.scdn.co/image/ab67616d00001e0234b9039e8fc9b67e71a6936d)
+![Vultures of North](https://i.scdn.co/image/ab67616d00001e025b35f3a6e240442606302917)
 --
-_<p>Track: Pokemon Professor Cypher - VideoGameRapBattles </p>_
+_<p>Track: Vultures of North - Orbit Culture </p>_
 </div>
