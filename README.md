@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Self-Destruction](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
+![Lost in Echoes](https://i.scdn.co/image/ab67616d00001e026bbd5c58e7be013e8e83dcb3)
 --
-_<p>Track: Self-Destruction - I Prevail </p>_
+_<p>Track: Lost in Echoes - Caskets </p>_
 </div>
