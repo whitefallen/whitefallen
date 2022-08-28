@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Chaos](https://i.scdn.co/image/ab67616d00001e02b70a97cd09572421fdc3f85b)
+![Doomed](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
 --
-_<p>Track: Chaos - Rok Nardin </p>_
+_<p>Track: Doomed - I Prevail </p>_
 </div>
