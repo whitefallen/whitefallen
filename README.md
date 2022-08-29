@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Day of the Cloud](https://i.scdn.co/image/ab67616d00001e02689852bd0fd71d4344166de8)
+![White Rabbit](https://i.scdn.co/image/ab67616d00001e021d9039cc88ce1c4d93915cd5)
 --
-_<p>Track: Day of the Cloud - Orbit Culture </p>_
+_<p>Track: White Rabbit - Egypt Central </p>_
 </div>
