@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Long Live The King](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
+![Open Eye](https://i.scdn.co/image/ab67616d00001e021a890a1efb2724da0c58ff5e)
 --
-_<p>Track: Long Live The King - I Prevail </p>_
+_<p>Track: Open Eye - Orbit Culture </p>_
 </div>
