@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![White Rabbit](https://i.scdn.co/image/ab67616d00001e021d9039cc88ce1c4d93915cd5)
+![Bring Me To Life](https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432)
 --
-_<p>Track: White Rabbit - Egypt Central </p>_
+_<p>Track: Bring Me To Life - Evanescence </p>_
 </div>
