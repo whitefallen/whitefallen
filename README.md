@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Open Eye](https://i.scdn.co/image/ab67616d00001e021a890a1efb2724da0c58ff5e)
+![Day of the Cloud](https://i.scdn.co/image/ab67616d00001e02689852bd0fd71d4344166de8)
 --
-_<p>Track: Open Eye - Orbit Culture </p>_
+_<p>Track: Day of the Cloud - Orbit Culture </p>_
 </div>
