@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Far Away](https://i.scdn.co/image/ab67616d00001e02f664171476d7718731fb121a)
+![Werewolf](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
 --
-_<p>Track: Far Away - Breaking Benjamin </p>_
+_<p>Track: Werewolf - Motionless In White </p>_
 </div>
