@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![S.C.A.V.A.](https://i.scdn.co/image/ab67616d00001e021f267bd335e93b41e56da619)
+![FWYTYK](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
 --
-_<p>Track: S.C.A.V.A. - Hollywood Undead </p>_
+_<p>Track: FWYTYK - I Prevail </p>_
 </div>
