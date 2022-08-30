@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![FWYTYK](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
+![Far Away](https://i.scdn.co/image/ab67616d00001e02f664171476d7718731fb121a)
 --
-_<p>Track: FWYTYK - I Prevail </p>_
+_<p>Track: Far Away - Breaking Benjamin </p>_
 </div>
