@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![The Negative](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
+![The Only](https://i.scdn.co/image/ab67616d00001e0251e68094dd2b709d70f1778f)
 --
-_<p>Track: The Negative - I Prevail </p>_
+_<p>Track: The Only - Static-X </p>_
 </div>
