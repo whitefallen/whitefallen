@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Masterpiece](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
+![Visceral](https://i.scdn.co/image/ab67616d00001e02fdf16e6dc8b69f3e7c2b258b)
 --
-_<p>Track: Masterpiece - Motionless In White </p>_
+_<p>Track: Visceral - I Prevail </p>_
 </div>
