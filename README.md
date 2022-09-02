@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Children Of Fire](https://i.scdn.co/image/ab67616d00001e02fabeff7f98662882a7fe8296)
+![No Plan B](https://i.scdn.co/image/ab67616d00001e02abfd06327743f9990a51ae16)
 --
-_<p>Track: Children Of Fire - Oh, Sleeper </p>_
+_<p>Track: No Plan B - Manafest </p>_
 </div>
