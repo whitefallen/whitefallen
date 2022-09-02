@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Don't Stop The Music](https://i.scdn.co/image/ab67616d00001e02f9f27162ab1ed45b8d7a7e98)
+![Immortal](https://i.scdn.co/image/ab67616d00001e02f287ac706dff20bced842c0f)
 --
-_<p>Track: Don't Stop The Music - Rihanna </p>_
+_<p>Track: Immortal - War Of Ages </p>_
 </div>
