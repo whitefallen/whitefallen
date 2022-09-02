@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Legendary](https://i.scdn.co/image/ab67616d00001e02bf125e324d8b284c248b4c2b)
+![Wasteland](https://i.scdn.co/image/ab67616d00001e020442436e363a6237a5de729f)
 --
-_<p>Track: Legendary - The Unguided </p>_
+_<p>Track: Wasteland - 10 Years </p>_
 </div>
