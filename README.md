@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Wasteland](https://i.scdn.co/image/ab67616d00001e020442436e363a6237a5de729f)
+![Playing God](https://i.scdn.co/image/ab67616d00001e0237b6d1cd53db262a4aea7eb5)
 --
-_<p>Track: Wasteland - 10 Years </p>_
+_<p>Track: Playing God - Polyphia </p>_
 </div>
