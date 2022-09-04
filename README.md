@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Toxic](https://i.scdn.co/image/ab67616d00001e02efc6988972cb04105f002cd4)
+![Vultures of North](https://i.scdn.co/image/ab67616d00001e025b35f3a6e240442606302917)
 --
-_<p>Track: Toxic - Britney Spears </p>_
+_<p>Track: Vultures of North - Orbit Culture </p>_
 </div>
