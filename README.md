@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Vultures of North](https://i.scdn.co/image/ab67616d00001e025b35f3a6e240442606302917)
+![Psalms of Death](https://i.scdn.co/image/ab67616d00001e02ed0ee59a1623ca2dab94e29f)
 --
-_<p>Track: Vultures of North - Orbit Culture </p>_
+_<p>Track: Psalms of Death - Lonewolf </p>_
 </div>
