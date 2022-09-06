@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Circle The Drain](https://i.scdn.co/image/ab67616d00001e02a5f7d35901c2357eeb50106a)
+![Don't Stop The Music](https://i.scdn.co/image/ab67616d00001e02f9f27162ab1ed45b8d7a7e98)
 --
-_<p>Track: Circle The Drain - Wage War </p>_
+_<p>Track: Don't Stop The Music - Rihanna </p>_
 </div>
