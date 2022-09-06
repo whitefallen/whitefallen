@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Don't Stop The Music](https://i.scdn.co/image/ab67616d00001e02f9f27162ab1ed45b8d7a7e98)
+!['O'](https://i.scdn.co/image/ab67616d00001e02fe8a7788458d0d63b803dbe3)
 --
-_<p>Track: Don't Stop The Music - Rihanna </p>_
+_<p>Track: 'O' - Bullet For My Valentine </p>_
 </div>
