@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Eternal Eyes](https://i.scdn.co/image/ab67616d00001e02e5e6c23923cf848ac569fee5)
+![Like A Villain](https://i.scdn.co/image/ab67616d00001e02d64128ee71f8a290d2db56b3)
 --
-_<p>Track: Eternal Eyes - Chaosbay </p>_
+_<p>Track: Like A Villain - Bad Omens </p>_
 </div>
