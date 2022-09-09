@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fighting Gravity - The Forgotten Remix](https://i.scdn.co/image/ab67616d00001e0214a077f9a111379a40fb1230)
+![Corrupted By You (Cassetter Remix)](https://i.scdn.co/image/ab67616d00001e021515db73c88525f2e514d8a6)
 --
-_<p>Track: Fighting Gravity - The Forgotten Remix - Of Mice & Men </p>_
+_<p>Track: Corrupted By You (Cassetter Remix) - Celina </p>_
 </div>
