@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fade to black](https://i.scdn.co/image/ab67616d00001e02f75574f610aa2d4fb2dc284f)
+![Llámame](https://i.scdn.co/image/ab67616d00001e0206736dc2eaaa73e41a5a7271)
 --
-_<p>Track: Fade to black - Nadir Rustamli </p>_
+_<p>Track: Llámame - wrs </p>_
 </div>
