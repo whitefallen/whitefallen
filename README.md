@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![True Colors](https://i.scdn.co/image/ab67616d00001e0224e65b757d9c9b487b42055b)
+![Save Me](https://i.scdn.co/image/ab67616d00001e02d1a0d3883bb1f28d712f7669)
 --
-_<p>Track: True Colors - Chunk! No, Captain Chunk! </p>_
+_<p>Track: Save Me - Skillet </p>_
 </div>
