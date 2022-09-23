@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![1v1 Me](https://i.scdn.co/image/ab67616d00001e024ea437f4255615ae6b580804)
+![Blind Lead the Blind](https://i.scdn.co/image/ab67616d00001e02282b04fae470d1cad14409b6)
 --
-_<p>Track: 1v1 Me - HalaCG </p>_
+_<p>Track: Blind Lead the Blind - Celldweller </p>_
 </div>
