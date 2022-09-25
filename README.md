@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Breaking Me Down](https://i.scdn.co/image/ab67616d00001e025458430a8be76e89973d3150)
+![Breathing](https://i.scdn.co/image/ab67616d00001e02d1fd8f264564d9eef7617a45)
 --
-_<p>Track: Breaking Me Down - Soil </p>_
+_<p>Track: Breathing - Yellowcard </p>_
 </div>
