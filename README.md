@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Open Your Eyes](https://i.scdn.co/image/ab67616d00001e0290de79652ab78e4954dd7a8f)
+![Breaking Me Down](https://i.scdn.co/image/ab67616d00001e025458430a8be76e89973d3150)
 --
-_<p>Track: Open Your Eyes - Guano Apes </p>_
+_<p>Track: Breaking Me Down - Soil </p>_
 </div>
