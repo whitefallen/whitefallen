@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![My Sweet Shadow](https://i.scdn.co/image/ab67616d00001e02ea8c7a717a063f8bbe4e6ead)
+![Open Your Eyes](https://i.scdn.co/image/ab67616d00001e0290de79652ab78e4954dd7a8f)
 --
-_<p>Track: My Sweet Shadow - In Flames </p>_
+_<p>Track: Open Your Eyes - Guano Apes </p>_
 </div>
