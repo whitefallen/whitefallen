@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![California Dreaming](https://i.scdn.co/image/ab67616d00001e02fb0db6a4fec3bfce8fed7b11)
+![Hiding in the Dark](https://i.scdn.co/image/ab67616d00001e0212db85123e9ddcdcd54ab16e)
 --
-_<p>Track: California Dreaming - Hollywood Undead </p>_
+_<p>Track: Hiding in the Dark - Fabvl </p>_
 </div>
