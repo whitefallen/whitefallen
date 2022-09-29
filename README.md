@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![This War Is Ours (The Guillotine II)](https://i.scdn.co/image/ab67616d00001e02b69af5d9f8fb68e9c820d662)
+![Wasteland](https://i.scdn.co/image/ab67616d00001e020442436e363a6237a5de729f)
 --
-_<p>Track: This War Is Ours (The Guillotine II) - Escape the Fate </p>_
+_<p>Track: Wasteland - 10 Years </p>_
 </div>
