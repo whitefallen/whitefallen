@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Run the World (Girls)](https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd)
+![Animal I Have Become](https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f)
 --
-_<p>Track: Run the World (Girls) - Beyoncé </p>_
+_<p>Track: Animal I Have Become - Three Days Grace </p>_
 </div>
