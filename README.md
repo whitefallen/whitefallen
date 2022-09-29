@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Wasteland](https://i.scdn.co/image/ab67616d00001e020442436e363a6237a5de729f)
+![Run the World (Girls)](https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd)
 --
-_<p>Track: Wasteland - 10 Years </p>_
+_<p>Track: Run the World (Girls) - Beyoncé </p>_
 </div>
