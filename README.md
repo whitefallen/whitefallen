@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Made by Design](https://i.scdn.co/image/ab67616d00001e02ff74ea71a90a88c43f2c436e)
+![Breathe Into Me](https://i.scdn.co/image/ab67616d00001e0235f22780496c7b7227b69d3d)
 --
-_<p>Track: Made by Design - Novelists FR </p>_
+_<p>Track: Breathe Into Me - Red </p>_
 </div>
