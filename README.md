@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Animal I Have Become](https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f)
+![LIGHT UP THE SKY](https://i.scdn.co/image/ab67616d00001e022790e6de1ef6d703f4f392ff)
 --
-_<p>Track: Animal I Have Become - Three Days Grace </p>_
+_<p>Track: LIGHT UP THE SKY - From Fall to Spring </p>_
 </div>
