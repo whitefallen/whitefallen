@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![LIGHT UP THE SKY](https://i.scdn.co/image/ab67616d00001e022790e6de1ef6d703f4f392ff)
+![Made by Design](https://i.scdn.co/image/ab67616d00001e02ff74ea71a90a88c43f2c436e)
 --
-_<p>Track: LIGHT UP THE SKY - From Fall to Spring </p>_
+_<p>Track: Made by Design - Novelists FR </p>_
 </div>
