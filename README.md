@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![DJ Turn It Up](https://i.scdn.co/image/ab67616d00001e02e61ee9e9088e6a236fe0c7fb)
+![No Man Can Become A God](https://i.scdn.co/image/ab67616d00001e0200663887ae32529bcef29f70)
 --
-_<p>Track: DJ Turn It Up - Yellow Claw </p>_
+_<p>Track: No Man Can Become A God - The Browning </p>_
 </div>
