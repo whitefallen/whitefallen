@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Give It All](https://i.scdn.co/image/ab67616d00001e021107b18eac8c7824908069cd)
+![Switchback](https://i.scdn.co/image/ab67616d00001e021f8dde710083ea7a26fecb4f)
 --
-_<p>Track: Give It All - Rise Against </p>_
+_<p>Track: Switchback - Celldweller </p>_
 </div>
