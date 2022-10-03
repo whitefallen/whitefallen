@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fearless](https://i.scdn.co/image/ab67616d00001e0200663887ae32529bcef29f70)
+![No Honor In Blood](https://i.scdn.co/image/ab67616d00001e02149cf6977defe909fd7d34fd)
 --
-_<p>Track: Fearless - The Browning </p>_
+_<p>Track: No Honor In Blood - Two Steps from Hell </p>_
 </div>
