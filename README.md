@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Boom](https://i.scdn.co/image/ab67616d00001e0295741aa186187b05e0653245)
+![Comin’ In Hot](https://i.scdn.co/image/ab67616d00001e021f267bd335e93b41e56da619)
 --
-_<p>Track: Boom - P.O.D. </p>_
+_<p>Track: Comin’ In Hot - Hollywood Undead </p>_
 </div>
