@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Fast Lane](https://i.scdn.co/image/ab67616d00001e0259a1132f3cab22f80b2d2777)
+![The Fear](https://i.scdn.co/image/ab67616d00001e02ce3e49a9d2ef8355d3358e1d)
 --
-_<p>Track: Fast Lane - Bad Meets Evil </p>_
+_<p>Track: The Fear - Dark Divine </p>_
 </div>
