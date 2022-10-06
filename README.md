@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Run Away](https://i.scdn.co/image/ab67616d00001e02ce3e49a9d2ef8355d3358e1d)
+![Evolution](https://i.scdn.co/image/ab67616d00001e02cd8176d1d53fb8c345375866)
 --
-_<p>Track: Run Away - Dark Divine </p>_
+_<p>Track: Evolution - Korn </p>_
 </div>
