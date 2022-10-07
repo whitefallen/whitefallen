@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Pokemon Masters 8 Cypher](https://i.scdn.co/image/ab67616d00001e023be58781d1f655794231f5eb)
+![Hey You](https://i.scdn.co/image/ab67616d00001e02fecdf22114c1c232fc5a3e6c)
 --
-_<p>Track: Pokemon Masters 8 Cypher - VideoGameRapBattles </p>_
+_<p>Track: Hey You - Disturbed </p>_
 </div>
