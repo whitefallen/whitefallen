@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Halloweentown](https://i.scdn.co/image/ab67616d00001e02ce3e49a9d2ef8355d3358e1d)
+![Hot Wings](https://i.scdn.co/image/ab67616d00001e028379dcbc408c1d36cf9ddcbf)
 --
-_<p>Track: Halloweentown - Dark Divine </p>_
+_<p>Track: Hot Wings - Loverboy Ty </p>_
 </div>
