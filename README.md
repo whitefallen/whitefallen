@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Halloweentown](https://i.scdn.co/image/ab67616d00001e02ce3e49a9d2ef8355d3358e1d)
+![Drink Your Light](https://i.scdn.co/image/ab67616d00001e02cda5ff15165f9f7af3d9a5e3)
 --
-_<p>Track: Halloweentown - Dark Divine </p>_
+_<p>Track: Drink Your Light - AmaLee </p>_
 </div>
