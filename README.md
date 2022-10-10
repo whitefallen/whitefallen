@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Metamorphosis](https://i.scdn.co/image/ab67616d00001e02cda5ff15165f9f7af3d9a5e3)
+![From The Embers](https://i.scdn.co/image/ab67616d00001e02cda5ff15165f9f7af3d9a5e3)
 --
-_<p>Track: Metamorphosis - AmaLee </p>_
+_<p>Track: From The Embers - AmaLee </p>_
 </div>
