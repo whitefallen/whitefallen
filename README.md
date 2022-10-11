@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Seeds of Dissension](https://i.scdn.co/image/ab67616d00001e020fcdd508aa011c1731d3b3a8)
+![Resistance](https://i.scdn.co/image/ab67616d00001e02de88d65e240032095b42fb33)
 --
-_<p>Track: Seeds of Dissension - Get The Shot </p>_
+_<p>Track: Resistance - 3FORCE </p>_
 </div>
