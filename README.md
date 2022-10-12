@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Bring Me To Life](https://i.scdn.co/image/ab67616d00001e02a48d7b7b6a4f7586117cd671)
+![Pop](https://i.scdn.co/image/ab67616d00001e0235181d2295357aa3e9f64a8f)
 --
-_<p>Track: Bring Me To Life - Halocene </p>_
+_<p>Track: Pop - Jonathan Young </p>_
 </div>
