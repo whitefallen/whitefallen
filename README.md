@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Me Against the Music (feat. Madonna) - LP Version / Video Mix](https://i.scdn.co/image/ab67616d00001e02efc6988972cb04105f002cd4)
+![Snow Waltz](https://i.scdn.co/image/ab67616d00001e02971ec547c99a8b86ee06b618)
 --
-_<p>Track: Me Against the Music (feat. Madonna) - LP Version / Video Mix - Britney Spears </p>_
+_<p>Track: Snow Waltz - Lindsey Stirling </p>_
 </div>
