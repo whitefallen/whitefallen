@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Burn It Down (My Hero Academia)](https://i.scdn.co/image/ab67616d00001e02a3332976b9572451aec9e880)
+![POWER](https://i.scdn.co/image/ab67616d00001e020437c0f524487598c0638b06)
 --
-_<p>Track: Burn It Down (My Hero Academia) - Fabvl </p>_
+_<p>Track: POWER - Divide Music </p>_
 </div>
