@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Unholy](https://i.scdn.co/image/ab67616d00001e02def6e0990b2e2f7bf4c432c5)
+![I'm Not Right](https://i.scdn.co/image/ab67616d00001e02746b0b0173bcbd25241d116d)
 --
-_<p>Track: Unholy - Halocene </p>_
+_<p>Track: I'm Not Right - Tetrarch </p>_
 </div>
