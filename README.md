@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Unholy](https://i.scdn.co/image/ab67616d00001e02def6e0990b2e2f7bf4c432c5)
+![A Cut Above](https://i.scdn.co/image/ab67616d00001e0220541aed3004f46535ac64a8)
 --
-_<p>Track: Unholy - Halocene </p>_
+_<p>Track: A Cut Above - Avery Watts </p>_
 </div>
