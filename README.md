@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Unholy](https://i.scdn.co/image/ab67616d00001e02def6e0990b2e2f7bf4c432c5)
+![Pain Remains I: Dancing Like Flames](https://i.scdn.co/image/ab67616d00001e02721a16b111e8a8947f72e35a)
 --
-_<p>Track: Unholy - Halocene </p>_
+_<p>Track: Pain Remains I: Dancing Like Flames - Lorna Shore </p>_
 </div>
