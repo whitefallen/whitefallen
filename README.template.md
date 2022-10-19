@@ -3,5 +3,31 @@
 
 ![{track_alt}]({track_image})
 --
-_<p>Track: {track_name} - {track_artist} </p>_
+_<samp><a href="{track_link}">Track: {track_name} - {track_artist}</a></samp>_
+
+<div style="border: 1px #4B5054 solid"></div>
+<details>
+  <summary>
+    Previous played songs
+  </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Artist
+        </th>
+        <th>
+          Song
+        </th>
+        <th>
+          Link
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      {track_list}
+    </tbody>
+  </table>
+</details>
+
 </div>

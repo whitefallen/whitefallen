@@ -38,12 +38,18 @@ async function main() {
     const track_name = recentlyPlayed.items[0].track.name;
     const track_artist = recentlyPlayed.items[0].track.artists[0].name;
     const track_image = recentlyPlayed.items[0].track.album.images[1].url;
+    const track_link = recentlyPlayed.items[0].track.href;
 
+    const build_table_body = recentlyPlayed.items.map((item) => {
+        return `<tr><td>${item.track.artists[0].name}</td><td>${item.track.name}</td><td><a href="${item.track.href}">${item.track.href}</a></td></tr>`
+    });
     const readme = readmeTemplate
         .replace("{track_image}", track_image)
         .replace("{track_artist}", track_artist)
         .replace("{track_alt}", track_name)
         .replace("{track_name}", track_name)
+        .replace("{track_link}", track_link)
+        .replace("{track_list}", build_table_body.join(""))
 
     await fs.writeFile("README.md", readme);
 }
