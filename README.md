@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Left Behind](https://i.scdn.co/image/ab67616d00001e02dcf88fa70a435211b49705ff)
+![Left Behind](https://i.scdn.co/image/ab67616d00001e0244214ab4173933792c415be8)
 --
 _<samp><a href="https://open.spotify.com/track/1maPvmbIAUUw5StegWvnnb">Track: Left Behind - The Plot In You</a></samp>_
 
