@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Cannibal](https://i.scdn.co/image/ab67616d00001e02c1ad3b0e67fa6dc918110abe)
+![Cannibal](https://i.scdn.co/image/ab67616d00001e022928d191085a69528082c9de)
 --
 _<samp><a href="https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa">Track: Cannibal - Pendulum</a></samp>_
 
