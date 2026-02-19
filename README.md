@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Now Playing...</h1>
 
-![Meltdown](https://i.scdn.co/image/ab67616d00001e023528a891d36d16d760cda271)
+![Meltdown](https://i.scdn.co/image/ab67616d00001e02927beb7f612958a2ce60c46c)
 --
 _<samp><a href="https://open.spotify.com/track/6w3hTgFYPaUo6WFz2tEOtX">Track: Meltdown - Motionless In White</a></samp>_
 
