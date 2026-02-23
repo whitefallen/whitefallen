@@ -26,18 +26,23 @@
 - [sharpblog](https://github.com/whitefallen/sharpblog) — CRUD blog with user management and comments (C#).
 - [Zenless-Inflation-Watcher](https://github.com/whitefallen/Zenless-Inflation-Watcher) — game economy watcher dashboard (TypeScript).
 - [expiration-date-tracker](https://github.com/whitefallen/expiration-date-tracker) — client-side tracker for product expiration dates (TypeScript).
-- [eventim-checker](https://github.com/whitefallen/eventim-checker) — TypeScript repository in the tracker/checker space.
 
-## 💡 Project ideas inferred from recent repos
-- Unified watcher hub combining price/expiration/event trackers with one dashboard (inferred from `Zenless-Inflation-Watcher`, `expiration-date-tracker`, `eventim-checker`).
-- Reusable notification layer (email/Discord/mobile) shared by tracker projects.
-- Shared auth + comments module that can be reused beyond `sharpblog`.
-
-## 🧰 Toolbox
+## 💻 Programming stack
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
+
+### Frameworks & Runtime
+<p>
   <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Framework-.NET-512BD4?logo=dotnet&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?logo=laravel&logoColor=fff" />
+</p>
+
+### Tools
+<p>
   <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff" />
