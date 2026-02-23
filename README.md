@@ -22,11 +22,10 @@
 - Improving architecture, DX and automation quality.
 - Learning by building and sharing in public.
 
-## 💡 Recent project ideas
-- AI-assisted developer dashboard for repository health and release readiness.
-- Lightweight homelab monitoring panel with alerts and historical metrics.
-- Knowledge base search with semantic indexing and source traceability.
-- Minimal personal API that powers profile widgets and status panels.
+## 📌 Profile highlights
+- This profile README auto-updates Spotify listening activity every hour via GitHub Actions.
+- Public repositories and coding activity are surfaced through live GitHub stats cards above.
+- Day-to-day focus: practical software engineering, automation, and developer experience.
 
 ## 🧰 Toolbox
 <p>
