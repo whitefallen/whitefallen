@@ -42,7 +42,7 @@
 <div align="center">
   <img src="{track_image}" alt="{track_alt}" />
   <br />
-  _<samp><a href="{track_link}">Track: {track_name} — {track_artist}</a></samp>_
+  _<samp><a href="{track_link}">Track: {track_name} - {track_artist}</a></samp>_
 </div>
 
 <details>

@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://i.scdn.co/image/ab67616d00001e02585ba56a2711cdd3083975d4" alt="Ich will Malochen" />
   <br />
-  _<samp><a href="https://open.spotify.com/track/5Bh88zwgeu2TWuItoZrVKZ">Track: Ich will Malochen — Reka</a></samp>_
+  _<samp><a href="https://open.spotify.com/track/5Bh88zwgeu2TWuItoZrVKZ">Track: Ich will Malochen - Reka</a></samp>_
 </div>
 
 <details>
