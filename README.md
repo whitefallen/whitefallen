@@ -1,27 +1,17 @@
-<div align="center"> 
-<h1>Now Playing...</h1>
+<div align="center">
 
 ![Necessary Evil (feat. Jonathan Davis)](https://i.scdn.co/image/ab67616d00001e0220bfa6114be3fcada3b5b3e3)
 --
 _<samp><a href="https://open.spotify.com/track/6Rt9GlwZEDU0V3vhXrUNqJ">Track: Necessary Evil (feat. Jonathan Davis) - Motionless In White</a></samp>_
 
-<div style="border: 1px #4B5054 solid"></div>
 <details>
-  <summary>
-    Previous played songs
-  </summary>
+  <summary>Previous played songs</summary>
   <table>
     <thead>
       <tr>
-        <th>
-          Artist
-        </th>
-        <th>
-          Song
-        </th>
-        <th>
-          Link
-        </th>
+        <th>Artist</th>
+        <th>Song</th>
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
@@ -29,5 +19,3 @@ _<samp><a href="https://open.spotify.com/track/6Rt9GlwZEDU0V3vhXrUNqJ">Track: Ne
     </tbody>
   </table>
 </details>
-
-</div>
