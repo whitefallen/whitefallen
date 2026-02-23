@@ -22,10 +22,16 @@
 - Improving architecture, DX and automation quality.
 - Learning by building and sharing in public.
 
-## 📌 Profile highlights
-- This profile README auto-updates Spotify listening activity every hour via GitHub Actions.
-- Public repositories and coding activity are surfaced through live GitHub stats cards above.
-- Day-to-day focus: practical software engineering, automation, and developer experience.
+## 📌 Recent repositories
+- [sharpblog](https://github.com/whitefallen/sharpblog) — CRUD blog with user management and comments (C#).
+- [Zenless-Inflation-Watcher](https://github.com/whitefallen/Zenless-Inflation-Watcher) — game economy watcher dashboard (TypeScript).
+- [expiration-date-tracker](https://github.com/whitefallen/expiration-date-tracker) — client-side tracker for product expiration dates (TypeScript).
+- [eventim-checker](https://github.com/whitefallen/eventim-checker) — TypeScript repository in the tracker/checker space.
+
+## 💡 Project ideas inferred from recent repos
+- Unified watcher hub combining price/expiration/event trackers with one dashboard (inferred from `Zenless-Inflation-Watcher`, `expiration-date-tracker`, `eventim-checker`).
+- Reusable notification layer (email/Discord/mobile) shared by tracker projects.
+- Shared auth + comments module that can be reused beyond `sharpblog`.
 
 ## 🧰 Toolbox
 <p>
