@@ -58,7 +58,7 @@
 
 ## 🎧 Recently played on Spotify
 <div align="center">
-  <img src="https://i.scdn.co/image/ab67616d00001e020f09e095fd4a3b69b706f406" alt="Don’t Look Away" />
+  <img src="https://i.scdn.co/image/ab67616d00001e023ab8599d4f601be6663d061e" alt="Don’t Look Away" />
   <br />
   _<samp><a href="https://open.spotify.com/track/1aLgtMGsqviUvSfLip9QUE">Track: Don’t Look Away - The Plot In You</a></samp>_
 </div>
